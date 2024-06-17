@@ -5,6 +5,7 @@ import userEvent from '@testing-library/user-event';
 import MainContent from './MainContent';
 
 // This is just a test
+// This is to test skip ci
 
 describe('MainContent', () => {
   it('should render a button', () => {
